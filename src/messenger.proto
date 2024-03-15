@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+import "google/protobuf/timestamp.proto";
+
+package amagi;
+
+// Messaging service
+service Messenger {
+    rpc SendRpcMessage (MessageRequest) returns (MessageResponse) {}
+}
+
+// Client side reuqest
+message MessageRequest {
+    string message = 1;
+    google.protobuf.Timestamp timestamp = 2;
+}
+
+// Server side response
+message MessageResponse {
+    string message = 1;
+    google.protobuf.Timestamp timestamp = 2;
+}
