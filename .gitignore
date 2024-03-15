@@ -1,0 +1,5 @@
+# CMakeUserPresets
+CMakeUserPresets.json
+
+# Build results
+build/
