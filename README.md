@@ -27,7 +27,7 @@ To build and run GrpcMessenger, follow these steps:
 
 1. Install the required prerequisites listed above.
 2. Clone this repository to your local machine.
-3. Navigate to the project directory and then to the scripts directory.
+3. Navigate to the project directory and then to the `scripts` directory.
 4. Execute the build script provided to download dependencies, configure the build, and compile the project.
 5. After successful compilation, you can find the executable files in the `build/{build_type}` directory.
 6. Run the server executable and then client executable
