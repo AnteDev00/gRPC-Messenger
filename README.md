@@ -9,7 +9,7 @@ Before building and running GrpcMessenger, ensure you have the following tools a
 - [CMake](https://cmake.org/): Cross-platform build system.
 - [Visual Studio](https://visualstudio.microsoft.com/): Development environment with MSVC compiler (other C++ compilers might work, but haven't been tested).
 
-## Libraries Used
+## Libraries/frameworks Used
 GrpcMessenger utilizes the following libraries:
 
 - [gRPC](https://grpc.io/): A high-performance RPC framework.
@@ -19,7 +19,7 @@ GrpcMessenger utilizes the following libraries:
 ## Tools Used
 In addition to the libraries, GrpcMessenger also utilizes the following tools:
 
-- Protocol Buffers compiler: Used to generate gRPC service stubs and message serialization code.
+- Protocol Buffers Compiler: Used to generate gRPC service stubs and message serialization code.
 - CMake: Used for configuring the build process and generating platform-specific build files.
 
 ## Building and Running
