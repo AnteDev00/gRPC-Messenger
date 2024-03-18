@@ -8,7 +8,7 @@ Before building and running GrpcMessenger, ensure you have the following tools a
 
 - [Conan](https://conan.io/): Dependency manager for C/C++ projects.
 - [CMake](https://cmake.org/): Cross-platform build system.
-- [Visual Studio](https://visualstudio.microsoft.com/): Development environment with MSVC compiler. The project is set up to use the "Visual Studio 17 2022" generator for CMake (`cmake .. -G "Visual Studio 17 2022"`). Other CMake generators might also work, but they haven't been tested and may require modifications to the build scripts.
+- [Visual Studio](https://visualstudio.microsoft.com/): Development environment with MSVC compiler. The project is set up to use the "Visual Studio 17 2022" generator for CMake (`cmake .. -G "Visual Studio 17 2022"`). Other CMake generators might also work, but they haven't been tested and require modifications to the build scripts.
 
 ## Libraries/Frameworks Used
 
