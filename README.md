@@ -12,7 +12,7 @@ Before building and running GrpcMessenger, ensure you have the following tools a
 
 ## Libraries/Frameworks Used
 
-GrpcMessenger utilizes the following libraries:
+GrpcMessenger utilizes the following libraries (via Conan):
 
 - [gRPC](https://grpc.io/): A high-performance RPC framework, used in combination with Protocol Buffers.
 - [Protocol Buffers](https://developers.google.com/protocol-buffers): A language-neutral, platform-neutral extensible mechanism for serializing structured data.
