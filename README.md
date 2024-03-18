@@ -42,5 +42,5 @@ Contributions are welcome! If you'd like to contribute to GrpcMessenger, please 
 
 ## License
 
-- This project, excluding the provided gRPC plugin, is governed by the terms of the MIT License. For details, please refer to the [MIT License](LICENSE) file.
+- This project, excluding the provided gRPC plugin, is licenced under the terms of the MIT License. For details, please refer to the [License](LICENSE) file.
 - The gRPC plugin is licensed under the Apache License Version 2.0. For comprehensive license details, please refer to the official repository at [grpc/grpc](https://github.com/grpc/grpc).
